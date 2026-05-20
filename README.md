@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Philip 👋
 
-<!--
-**PhilipP4-dot/PhilipP4-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About me
+- 💻 Interested in software development and practical problem-solving
+- 🌱 Currently learning and improving across modern development tools
+- 🤝 Open to collaboration on useful, well-scoped projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech focus
+- Languages: Python, JavaScript, TypeScript
+- Tools: Git, GitHub, VS Code
+
+## Contact
+- GitHub: [@PhilipP4-dot](https://github.com/PhilipP4-dot)
