@@ -1,10 +1,15 @@
 ### Hi there 👋, my name is Philip
-I'm a computer science graduate with a focus in software development.
+
+Welcome to my GitHub profile, I'm a computer science graduate with a focus in software development.
 
 Skills: PYTHON / C++ / JS / SQL / GEMINI AI
 
+## About me
 - 🔭 I’m currently working on a college dining hall meal planner. 
 - 😄 Pronouns: he/him 
+- 💻 Interested in software development and practical problem-solving
+- 🌱 Currently learning and improving across modern development tools
+- 🤝 Open to collaboration on useful, well-scoped projects
 - ⚡ Fun fact: I play badminton and read novels a lot during my spare time 
 
 
@@ -21,4 +26,3 @@ Skills: PYTHON / C++ / JS / SQL / GEMINI AI
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/PhilipP4-dot/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/PhilipP4-dot)  
-
