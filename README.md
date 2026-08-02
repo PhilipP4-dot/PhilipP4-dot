@@ -1,28 +1,28 @@
-### Hi there 👋, my name is Philip
+# Hi, I'm Philip Pearce-Pearson
 
-Welcome to my GitHub profile, I'm a computer science graduate with a focus in software development.
+Computer Science graduate building backend and full-stack applications with Python, FastAPI, Flask, SQL, and JavaScript.
 
-Skills: PYTHON / C++ / JS / SQL / GEMINI AI
+## Featured work
 
-## About me
-- 🔭 I’m currently working on a college dining hall meal planner. 
-- 😄 Pronouns: he/him 
-- 💻 Interested in software development and practical problem-solving
-- 🌱 Currently learning and improving across modern development tools
-- 🤝 Open to collaboration on useful, well-scoped projects
-- ⚡ Fun fact: I play badminton and read novels a lot during my spare time 
+- **[GenAI Food Pantry Inventory](https://github.com/PhilipP4-dot/GenAI_Inventory)** - Full-stack inventory workflow using FastAPI, PostgreSQL, AWS RDS, and Gemini image classification. [Live application](https://aipantryfrontend.vercel.app/)
+- **[College Dining Meal Planner](https://github.com/PhilipP4-dot/meal_plan_rec)** - Flask application that processes 800+ menu items and generates personalized meal recommendations. [Live application](https://mealplanrec-production.up.railway.app/)
+- **[The Sunday Table](https://github.com/PhilipP4-dot/meal-availability-web)** - Responsive meal-availability application built with Next.js and TypeScript. [Live application](https://sweetspicy.up.railway.app/)
+- **[Privacy-Preserving Voting App](https://github.com/PhilipP4-dot/Privacy-Voting-Web-App)** - FastAPI polling system implementing Local Differential Privacy and mixed-epsilon debiasing.
 
+## Technical focus
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhilipP4-dot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/philipomegap4/)  
+- Backend APIs and database-backed applications
+- Python, FastAPI, Flask, and SQLAlchemy
+- PostgreSQL and SQLite
+- JavaScript and TypeScript
+- AWS RDS, Railway, and Vercel
+- Practical AI integrations
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+## Currently improving
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PhilipP4-dot)](https://github.com/ryo-ma/github-profile-trophy)
+- Automated testing with Pytest
+- Docker and reproducible development environments
+- GitHub Actions and CI/CD
+- Production logging and application monitoring
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipP4-dot)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipP4-dot&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/PhilipP4-dot/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/PhilipP4-dot)  
+[LinkedIn](https://www.linkedin.com/in/philipomegap4/) | [Email](mailto:pearce_p1@denison.edu)
